@@ -1,7 +1,8 @@
-Here is some data if you find it useful
+Here is some data if you find it useful. 
 
-
-
+# Sources that helped
+* https://github.com/ubikuity/List-of-neighboring-states-for-each-US-state
+* https://www.washingtonpost.com/graphics/lifestyle/trifinia/
 
 
 
