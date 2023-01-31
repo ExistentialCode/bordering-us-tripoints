@@ -4,7 +4,7 @@
    height="517.5"
    version="1.1"
    id="svg342"
-   sodipodi:docname="scraped2.svg"
+   sodipodi:docname="scraped4.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -22,9 +22,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="541.29024"
-     inkscape:cy="188.44396"
+     inkscape:zoom="32"
+     inkscape:cx="559.93751"
+     inkscape:cy="67.031251"
      inkscape:window-width="1600"
      inkscape:window-height="837"
      inkscape:window-x="-8"
@@ -378,353 +378,6 @@
        id="path100"
        sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
   </g>
-  <g
-     id="state-names"
-     style="fill:#000000">
-    <text
-       class="statename WA"
-       x="153.4289873543078"
-       y="42.27633542496144"
-       text-anchor="middle"
-       id="text103"
-       style="fill:#000000">WA</text>
-    <text
-       class="statename MT"
-       x="240.195226286431"
-       y="63.99908881131828"
-       text-anchor="middle"
-       id="text105"
-       style="fill:#000000">MT</text>
-    <text
-       class="statename ME"
-       x="578.020313683472"
-       y="60.41299316945453"
-       text-anchor="middle"
-       id="text107"
-       style="fill:#000000">ME</text>
-    <text
-       class="statename ND"
-       x="316.25297143957226"
-       y="66.37243618273216"
-       text-anchor="middle"
-       id="text109"
-       style="fill:#000000">ND</text>
-    <text
-       class="statename SD"
-       x="316.58011196472864"
-       y="102.84433091280101"
-       text-anchor="middle"
-       id="text111"
-       style="fill:#000000">SD</text>
-    <text
-       class="statename WY"
-       x="251.44168992628292"
-       y="115.09775713349583"
-       text-anchor="middle"
-       id="text113"
-       style="fill:#000000">WY</text>
-    <text
-       class="statename WI"
-       x="404.8653524136519"
-       y="99.83560697263277"
-       text-anchor="middle"
-       id="text115"
-       style="fill:#000000">WI</text>
-    <text
-       class="statename ID"
-       x="193.1042069614534"
-       y="89.09645432774886"
-       text-anchor="middle"
-       id="text117"
-       style="fill:#000000">ID</text>
-    <text
-       class="statename VT"
-       x="552.9876194494558"
-       y="79.97119636237278"
-       text-anchor="middle"
-       id="text119"
-       style="fill:#000000">VT</text>
-    <text
-       class="statename MN"
-       x="367.38928298320167"
-       y="81.25326438469321"
-       text-anchor="middle"
-       id="text121"
-       style="fill:#000000">MN</text>
-    <text
-       class="statename OR"
-       x="141.73853092503796"
-       y="82.42899405101674"
-       text-anchor="middle"
-       id="text123"
-       style="fill:#000000">OR</text>
-    <text
-       class="statename NH"
-       x="564.0914960450816"
-       y="85.65974096623333"
-       text-anchor="middle"
-       id="text125"
-       style="fill:#000000">NH</text>
-    <text
-       class="statename IA"
-       x="375.505464978653"
-       y="132.17856797189467"
-       text-anchor="middle"
-       id="text127"
-       style="fill:#000000">IA</text>
-    <text
-       class="statename MA"
-       x="566.6042728514718"
-       y="102.90742130481588"
-       text-anchor="middle"
-       id="text129"
-       style="fill:#000000">MA</text>
-    <text
-       class="statename NE"
-       x="318.970565696859"
-       y="138.43354506814347"
-       text-anchor="middle"
-       id="text131"
-       style="fill:#000000">NE</text>
-    <text
-       class="statename NY"
-       x="532.5655258612762"
-       y="102.4744110935912"
-       text-anchor="middle"
-       id="text133"
-       style="fill:#000000">NY</text>
-    <text
-       class="statename PA"
-       x="517.6293442130233"
-       y="131.30595107046537"
-       text-anchor="middle"
-       id="text135"
-       style="fill:#000000">PA</text>
-    <text
-       class="statename CT"
-       x="561.3961177817778"
-       y="112.64776250866089"
-       text-anchor="middle"
-       id="text137"
-       style="fill:#000000">CT</text>
-    <text
-       class="statename RI"
-       x="570.5379022992076"
-       y="109.19806499139315"
-       text-anchor="middle"
-       id="text139"
-       style="fill:#000000">RI</text>
-    <text
-       class="statename NJ"
-       x="547.2852522016639"
-       y="133.60841603877356"
-       text-anchor="middle"
-       id="text141"
-       style="fill:#000000">NJ</text>
-    <text
-       class="statename IN"
-       x="442.57730000839285"
-       y="154.5257404451024"
-       text-anchor="middle"
-       id="text143"
-       style="fill:#000000">IN</text>
-    <text
-       class="statename NV"
-       x="162.89533499219567"
-       y="145.3968828507382"
-       text-anchor="middle"
-       id="text145"
-       style="fill:#000000">NV</text>
-    <text
-       class="statename UT"
-       x="208.1005790740866"
-       y="154.3713312916921"
-       text-anchor="middle"
-       id="text147"
-       style="fill:#000000">UT</text>
-    <text
-       class="statename CA"
-       x="124.61649128585995"
-       y="163.74908092772404"
-       text-anchor="middle"
-       id="text149"
-       style="fill:#000000">CA</text>
-    <text
-       class="statename OH"
-       x="473.87433375720633"
-       y="145.9860666200098"
-       text-anchor="middle"
-       id="text151"
-       style="fill:#000000">OH</text>
-    <text
-       class="statename IL"
-       x="415.62869019819374"
-       y="155.1163379830556"
-       text-anchor="middle"
-       id="text153"
-       style="fill:#000000">IL</text>
-    <text
-       class="statename DC"
-       x="529.4062585740809"
-       y="153.607200005702"
-       text-anchor="middle"
-       id="text155"
-       style="fill:#000000">DC</text>
-    <text
-       class="statename DE"
-       x="543.0908734379424"
-       y="149.64095059638944"
-       text-anchor="middle"
-       id="text157"
-       style="fill:#000000">DE</text>
-    <text
-       class="statename WV"
-       x="496.76933573021637"
-       y="162.85673031968432"
-       text-anchor="middle"
-       id="text159"
-       style="fill:#000000">WV</text>
-    <text
-       class="statename MD"
-       x="530.9273582224852"
-       y="151.3015443404547"
-       text-anchor="middle"
-       id="text161"
-       style="fill:#000000">MD</text>
-    <text
-       class="statename CO"
-       x="264.1163189912974"
-       y="165.67938756139486"
-       text-anchor="middle"
-       id="text163"
-       style="fill:#000000">CO</text>
-    <text
-       class="statename KY"
-       x="454.81851836194045"
-       y="182.31678733923312"
-       text-anchor="middle"
-       id="text165"
-       style="fill:#000000">KY</text>
-    <text
-       class="statename KS"
-       x="330.7363005308383"
-       y="176.05294555292673"
-       text-anchor="middle"
-       id="text167"
-       style="fill:#000000">KS</text>
-    <text
-       class="statename VA"
-       x="515.5031946562428"
-       y="173.49736629793512"
-       text-anchor="middle"
-       id="text169"
-       style="fill:#000000">VA</text>
-    <text
-       class="statename MO"
-       x="386.4592473844163"
-       y="177.40146128852186"
-       text-anchor="middle"
-       id="text171"
-       style="fill:#000000">MO</text>
-    <text
-       class="statename AZ"
-       x="198.09429527777482"
-       y="215.1406386754613"
-       text-anchor="middle"
-       id="text173"
-       style="fill:#000000">AZ</text>
-    <text
-       class="statename OK"
-       x="338.51056069114844"
-       y="211.74202553415725"
-       text-anchor="middle"
-       id="text175"
-       style="fill:#000000">OK</text>
-    <text
-       class="statename NC"
-       x="514.6395629619477"
-       y="198.0746794727836"
-       text-anchor="middle"
-       id="text177"
-       style="fill:#000000">NC</text>
-    <text
-       class="statename TN"
-       x="447.036250035599"
-       y="203.74988286835227"
-       text-anchor="middle"
-       id="text179"
-       style="fill:#000000">TN</text>
-    <text
-       class="statename TX"
-       x="318.9001846565702"
-       y="261.4505360750071"
-       text-anchor="middle"
-       id="text181"
-       style="fill:#000000">TX</text>
-    <text
-       class="statename NM"
-       x="252.98784539472572"
-       y="220.93808405179897"
-       text-anchor="middle"
-       id="text183"
-       style="fill:#000000">NM</text>
-    <text
-       class="statename AL"
-       x="445.946364365365"
-       y="241.675936858826"
-       text-anchor="middle"
-       id="text185"
-       style="fill:#000000">AL</text>
-    <text
-       class="statename MS"
-       x="417.2973849266724"
-       y="244.4901470054175"
-       text-anchor="middle"
-       id="text187"
-       style="fill:#000000">MS</text>
-    <text
-       class="statename GA"
-       x="480.25763152133226"
-       y="239.43372923454692"
-       text-anchor="middle"
-       id="text189"
-       style="fill:#000000">GA</text>
-    <text
-       class="statename SC"
-       x="503.418393390594"
-       y="220.33335287980913"
-       text-anchor="middle"
-       id="text191"
-       style="fill:#000000">SC</text>
-    <text
-       class="statename AR"
-       x="388.2611216245617"
-       y="219.73223873198577"
-       text-anchor="middle"
-       id="text193"
-       style="fill:#000000">AR</text>
-    <text
-       class="statename LA"
-       x="388.08824055563383"
-       y="265.7944429460088"
-       text-anchor="middle"
-       id="text195"
-       style="fill:#000000">LA</text>
-    <text
-       class="statename FL"
-       x="506.74792526097116"
-       y="292.7228753431623"
-       text-anchor="middle"
-       id="text197"
-       style="fill:#000000">FL</text>
-    <text
-       class="statename MI"
-       x="451.61054099036915"
-       y="112.44280490490848"
-       text-anchor="middle"
-       id="text199"
-       style="fill:#000000">MI</text>
-  </g>
   <circle
      class="dot"
      data-sign="az-nv-ut"
@@ -747,29 +400,29 @@
      class="dot"
      data-sign="ct-ma-ny"
      data-color="green"
-     r="3"
+     r="5"
      cx="552.60413"
      cy="109.04719"
      id="circle206"
-     style="stroke-width:0.3" />
+     style="stroke-width:0.5" />
   <circle
      class="dot"
      data-sign="nm-ok-tx"
      data-color="green"
-     r="5"
+     r="3"
      cx="285.55148"
      cy="198.21814"
      id="circle208"
-     style="stroke-width:0.5" />
+     style="stroke-width:0.3" />
   <circle
      class="dot"
      data-sign="ar-ok-tx"
      data-color="blue"
-     r="5"
+     r="4.25"
      cx="368.30695"
      cy="235.60744"
      id="circle210"
-     style="stroke-width:0.5" />
+     style="stroke-width:0.425" />
   <circle
      class="dot"
      data-sign="ct-ma-ri"
@@ -783,20 +436,20 @@
      class="dot"
      data-sign="ar-mo-ok"
      data-color="yellow"
-     r="5"
+     r="3"
      cx="366.47467"
      cy="200.62314"
      id="circle214"
-     style="stroke-width:0.5" />
+     style="stroke-width:0.3" />
   <circle
      class="dot"
      data-sign="ia-mo-ne"
      data-color="blue"
-     r="5"
+     r="4.125"
      cx="355.26572"
      cy="150.68454"
      id="circle216"
-     style="stroke-width:0.5" />
+     style="stroke-width:0.4125" />
   <circle
      class="dot"
      data-sign="ar-ms-tn"
@@ -810,7 +463,7 @@
      class="dot"
      data-sign="mn-nd-sd"
      data-color="green"
-     r="5"
+     r="10"
      cx="348.36786"
      cy="85.474182"
      id="circle222"
@@ -819,11 +472,11 @@
      class="dot"
      data-sign="ks-mo-ok"
      data-color="yellow"
-     r="5"
+     r="3"
      cx="366.3851"
      cy="194.51137"
      id="circle224"
-     style="stroke-width:0.5" />
+     style="stroke-width:0.3" />
   <circle
      class="dot active"
      data-sign="az-ca-nv"
@@ -855,29 +508,29 @@
      class="dot"
      data-sign="ma-nh-vt"
      data-color="orange"
-     r="3"
+     r="4"
      cx="559.51111"
      cy="98.821114"
      id="circle232"
-     style="stroke-width:0.3" />
+     style="stroke-width:0.4" />
   <circle
      class="dot"
      data-sign="il-ky-mo"
      data-color="blue"
-     r="3"
+     r="3.25"
      cx="418.97174"
      cy="192.42882"
      id="circle234"
-     style="stroke-width:0.3" />
+     style="stroke-width:0.325" />
   <circle
      class="dot"
      data-sign="nj-ny-pa"
      data-color="yellow"
-     r="6"
+     r="7"
      cx="543.97076"
      cy="119.76413"
      id="circle236"
-     style="stroke-width:0.6" />
+     style="stroke-width:0.7" />
   <circle
      class="dot"
      data-sign="ky-tn-va"
@@ -891,20 +544,20 @@
      class="dot"
      data-sign="co-ks-ok"
      data-color="green"
-     r="5"
+     r="6"
      cx="295.18796"
      cy="192.8333"
      id="circle240"
-     style="stroke-width:0.5" />
+     style="stroke-width:0.6" />
   <circle
      class="dot"
      data-sign="ky-mo-tn"
      data-color="blue"
-     r="3"
+     r="3.25"
      cx="416.00201"
      cy="198.58778"
      id="circle242"
-     style="stroke-width:0.3" />
+     style="stroke-width:0.325" />
   <circle
      class="dot"
      data-sign="cn-mn-wi"
@@ -927,20 +580,20 @@
      class="dot"
      data-sign="ia-mn-wi"
      data-color="blue"
-     r="5"
+     r="6"
      cx="394.99036"
      cy="114.02473"
      id="circle248"
-     style="stroke-width:0.5" />
+     style="stroke-width:0.6" />
   <circle
      class="dot"
      data-sign="ia-il-mo"
      data-color="blue"
-     r="5"
+     r="10"
      cx="395.06549"
      cy="152.20909"
      id="circle250"
-     style="stroke-width:0.5" />
+     style="stroke-width:1" />
   <circle
      class="dot"
      data-sign="in-ky-oh"
@@ -972,29 +625,29 @@
      class="dot"
      data-sign="de-md-pa"
      data-color="orange"
-     r="2"
+     r="1.71875"
      cx="538.54761"
      cy="141.45969"
      id="circle258"
-     style="stroke-width:0.2" />
+     style="stroke-width:0.171875" />
   <circle
      class="dot"
      data-sign="co-nm-ok"
      data-color="green"
-     r="5"
+     r="3"
      cx="286.00241"
      cy="192.11501"
      id="circle260"
-     style="stroke-width:0.5" />
+     style="stroke-width:0.3" />
   <circle
      class="dot"
      data-sign="ia-ne-sd"
      data-color="blue"
-     r="5"
+     r="6"
      cx="349.16556"
      cy="127.38786"
      id="circle268"
-     style="stroke-width:0.5" />
+     style="stroke-width:0.6" />
   <circle
      class="dot"
      data-sign="az-co-nm-ut"
@@ -1017,29 +670,29 @@
      class="dot"
      data-sign="ia-il-wi"
      data-color="blue"
-     r="5"
+     r="6"
      cx="400.716"
      cy="125.84163"
      id="circle276"
-     style="stroke-width:0.5" />
+     style="stroke-width:0.6" />
   <circle
      class="dot"
      data-sign="ky-oh-wv"
      data-color="blue"
-     r="5"
+     r="6"
      cx="478.88068"
      cy="168.29086"
      id="circle278"
-     style="stroke-width:0.5" />
+     style="stroke-width:0.6" />
   <circle
      class="dot"
      data-sign="ga-nc-sc"
      data-color="green"
-     r="7"
+     r="6"
      cx="479.74371"
      cy="210.4655"
      id="circle280"
-     style="stroke-width:0.7" />
+     style="stroke-width:0.6" />
   <circle
      class="dot"
      data-sign="id-or-wa"
@@ -1062,11 +715,11 @@
      class="dot"
      data-sign="ar-la-tx"
      data-color="yellow"
-     r="5"
+     r="4.25"
      cx="372.90262"
      cy="243.0787"
      id="circle286"
-     style="stroke-width:0.5" />
+     style="stroke-width:0.425" />
   <circle
      class="dot"
      data-sign="al-ms-tn"
@@ -1089,29 +742,29 @@
      class="dot"
      data-sign="in-mi-oh"
      data-color="yellow"
-     r="4"
+     r="5"
      cx="453.52234"
      cy="131.18262"
      id="circle292"
-     style="stroke-width:0.4" />
+     style="stroke-width:0.5" />
   <circle
      class="dot"
      data-sign="ia-mn-sd"
      data-color="yellow"
-     r="5"
+     r="6"
      cx="349.15546"
      cy="115.07069"
      id="circle294"
-     style="stroke-width:0.5" />
+     style="stroke-width:0.6" />
   <circle
      class="dot"
      data-sign="md-va-wv"
      data-color="yellow"
-     r="5"
+     r="4.75"
      cx="522.00696"
      cy="149.86754"
      id="circle296"
-     style="stroke-width:0.5" />
+     style="stroke-width:0.475" />
   <circle
      class="dot"
      data-sign="id-mt-wy"
@@ -1125,20 +778,20 @@
      class="dot"
      data-sign="ar-mo-tn"
      data-color="blue"
-     r="3"
+     r="3.25"
      cx="414.01572"
      cy="204.81929"
      id="circle300"
-     style="stroke-width:0.3" />
+     style="stroke-width:0.325" />
   <circle
      class="dot"
      data-sign="ks-mo-ne"
      data-color="blue"
-     r="6"
+     r="4.125"
      cx="359.49432"
      cy="157.82588"
      id="circle302"
-     style="stroke-width:0.6" />
+     style="stroke-width:0.4125" />
   <circle
      class="dot"
      data-sign="co-ne-wy"
@@ -1161,20 +814,20 @@
      class="dot"
      data-sign="in-lm-mi"
      data-color="blue"
-     r="4"
+     r="3.0883884"
      cx="435.25916"
      cy="132.29536"
      id="circle308"
-     style="stroke-width:0.4" />
+     style="stroke-width:0.308839" />
   <circle
      class="dot"
      data-sign="mt-nd-sd"
      data-color="green"
-     r="5"
+     r="5.625"
      cx="285.25961"
      cy="82.49295"
      id="circle310"
-     style="stroke-width:0.5" />
+     style="stroke-width:0.5625" />
   <circle
      class="dot"
      data-sign="at-ct-ri"
@@ -1197,11 +850,11 @@
      class="dot"
      data-sign="mt-sd-wy"
      data-color="green"
-     r="5"
+     r="5.625"
      cx="284.18384"
      cy="93.938736"
      id="circle316"
-     style="stroke-width:0.5" />
+     style="stroke-width:0.5625" />
   <circle
      class="dot"
      data-sign="oh-pa-wv"
@@ -1242,20 +895,20 @@
      class="dot"
      data-sign="md-pa-wv"
      data-color="yellow"
-     r="8"
+     r="7"
      cx="505.0946"
      cy="148.01956"
      id="circle326"
-     style="stroke-width:0.8" />
+     style="stroke-width:0.7" />
   <circle
      class="dot"
      data-sign="il-in-ky"
      data-color="blue"
-     r="5"
+     r="10"
      cx="428.70306"
      cy="181.62958"
      id="circle328"
-     style="stroke-width:0.5" />
+     style="stroke-width:1" />
   <circle
      class="dot"
      data-sign="ne-sd-wy"
@@ -1306,20 +959,20 @@
      class="dot"
      data-sign="cn-id-mt"
      data-color="blue"
-     r="4"
+     r="3.5"
      cx="192.61308"
      cy="31.563128"
      id="circle1179"
-     style="stroke-width:0.4" />
+     style="stroke-width:0.35" />
   <circle
      class="dot"
      data-sign="cn-id-wa"
      data-color="blue"
-     r="4"
+     r="3.5"
      cx="184.99484"
      cy="29.889608"
      id="circle1357"
-     style="stroke-width:0.4" />
+     style="stroke-width:0.35" />
   <circle
      class="dot active"
      data-sign="cn-pc-wa"
@@ -1333,8 +986,8 @@
      data-sign="or-pc-wa"
      data-color="blue"
      r="10"
-     cx="126.40555"
-     cy="50.186329"
+     cx="126.76063"
+     cy="51.317917"
      id="circle1359" />
   <circle
      class="dot"
@@ -1405,36 +1058,38 @@
      class="dot active"
      data-sign="al-at-ms"
      data-color="blue"
-     r="6"
+     r="5"
      cx="432.42975"
      cy="272.06393"
      id="circle1578"
-     style="stroke-width:0.6" />
+     style="stroke-width:0.5" />
   <circle
      class="dot active"
      data-sign="al-at-fl"
      data-color="blue"
-     r="6"
+     r="5"
      cx="442.52518"
      cy="270.17795"
      id="circle1578-5"
-     style="stroke-width:0.6" />
+     style="stroke-width:0.5" />
   <circle
      class="dot active"
      data-sign="at-fl-ga"
      data-color="blue"
-     r="10"
+     r="8"
      cx="503.01984"
      cy="259.85092"
-     id="circle1580" />
+     id="circle1580"
+     style="stroke-width:0.8" />
   <circle
      class="dot active"
      data-sign="at-ga-sc"
      data-color="blue"
-     r="10"
+     r="8"
      cx="504.60019"
      cy="242.39964"
-     id="circle1582" />
+     id="circle1582"
+     style="stroke-width:0.8" />
   <circle
      class="dot active"
      data-sign="at-nc-sc"
@@ -1455,20 +1110,20 @@
      class="dot active"
      data-sign="at-md-va"
      data-color="blue"
-     r="4"
+     r="4.75"
      cx="529.0307"
      cy="156.8895"
      id="circle1588"
-     style="stroke-width:0.4" />
+     style="stroke-width:0.475" />
   <circle
      class="dot active"
      data-sign="at-de-md"
      data-color="blue"
-     r="4"
+     r="7"
      cx="548.24915"
      cy="155.30513"
      id="circle1590"
-     style="stroke-width:0.4" />
+     style="stroke-width:0.7" />
   <circle
      class="dot active"
      data-sign="at-de-nj"
@@ -1482,20 +1137,20 @@
      class="dot active"
      data-sign="at-nj-ny"
      data-color="blue"
-     r="2"
+     r="2.4419422"
      cx="551.91998"
      cy="126.34465"
      id="circle1594"
-     style="stroke-width:0.2" />
+     style="stroke-width:0.24419" />
   <circle
      class="dot active"
      data-sign="at-ct-ny"
      data-color="blue"
-     r="2"
+     r="2.4419422"
      cx="554.12921"
      cy="121.88882"
      id="circle1596"
-     style="stroke-width:0.2" />
+     style="stroke-width:0.24419" />
   <circle
      class="dot"
      data-sign="at-ma-ri"
@@ -1509,38 +1164,38 @@
      class="dot"
      data-sign="at-ma-nh"
      data-color="blue"
-     r="1"
+     r="1.5"
      cx="573.10846"
      cy="93.483177"
      id="circle1600"
-     style="stroke-width:0.1" />
+     style="stroke-width:0.15" />
   <circle
      class="dot"
      data-sign="at-cn-me"
      data-color="blue"
-     r="6"
+     r="7"
      cx="596.06293"
      cy="58.223454"
      id="circle1602"
-     style="stroke-width:0.6" />
+     style="stroke-width:0.7" />
   <circle
      class="dot"
      data-sign="cn-me-nh"
      data-color="blue"
-     r="3"
+     r="2.5"
      cx="563.14807"
      cy="65.468063"
      id="circle1604"
-     style="stroke-width:0.3" />
+     style="stroke-width:0.25" />
   <circle
      class="dot"
      data-sign="cn-nh-vt"
      data-color="blue"
-     r="3"
+     r="2.5"
      cx="560.55719"
      cy="69.783897"
      id="circle1606"
-     style="stroke-width:0.3" />
+     style="stroke-width:0.25" />
   <circle
      class="dot"
      data-sign="cn-ny-vt"
@@ -1554,29 +1209,29 @@
      class="dot"
      data-sign="cn-ny-pa"
      data-color="blue"
-     r="4"
+     r="3.6187191"
      cx="497.18018"
      cy="117.76631"
      id="circle1610"
-     style="stroke-width:0.4" />
+     style="stroke-width:0.361866" />
   <circle
      class="dot"
      data-sign="cn-oh-pa"
      data-color="blue"
-     r="4"
+     r="3.6187191"
      cx="491.08975"
      cy="122.30283"
      id="circle1612"
-     style="stroke-width:0.4" />
+     style="stroke-width:0.361866" />
   <circle
      class="dot"
      data-sign="cn-mi-oh"
      data-color="blue"
-     r="4"
+     r="5"
      cx="465.30441"
      cy="129.37018"
      id="circle1614"
-     style="stroke-width:0.4" />
+     style="stroke-width:0.5" />
   <circle
      class="dot"
      data-sign="lm-mi-wi"
@@ -1590,29 +1245,29 @@
      class="dot"
      data-sign="il-in-lm"
      data-color="blue"
-     r="2"
+     r="3.0883884"
      cx="429.13651"
      cy="133.38023"
      id="circle1618"
-     style="stroke-width:0.2" />
+     style="stroke-width:0.308839" />
   <circle
      class="dot"
      data-sign="il-lm-wi"
      data-color="blue"
-     r="4"
+     r="6"
      cx="425.93936"
      cy="124.26455"
      id="circle1620"
-     style="stroke-width:0.4" />
+     style="stroke-width:0.6" />
   <circle
      class="dot"
      data-sign="at-me-nh"
      data-color="blue"
-     r="2"
+     r="1.5"
      cx="572.30365"
      cy="90.517143"
      id="circle4478"
-     style="stroke-width:0.2" />
+     style="stroke-width:0.15" />
   <circle
      class="dot"
      data-sign="cn-mi-wi"
@@ -1622,5 +1277,6 @@
      cy="76.454697"
      id="circle413"
      style="stroke-width:0.9" />
-<style>.dot{fill:black !important}.state{fill: grey !important}</style>
+  <style
+     id="style205">.state{fill: grey!important}</style>
 </svg>
